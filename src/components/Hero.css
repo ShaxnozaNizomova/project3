@@ -1,0 +1,43 @@
+.hero{
+    background-color: #DCEAF5;
+    padding-bottom: 90px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.header__title{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    color: #1D3444;
+}
+.header__text{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.header__btn{
+    border: 1px  solid #F58A07;
+    border-radius: 27px;
+    background-color: #F58A07;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 17px;
+    color: #ffff;
+    padding: 15px;
+}
+.header__span{
+    color: #39414980;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}

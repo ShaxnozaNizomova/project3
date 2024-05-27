@@ -1,0 +1,44 @@
+.foot{
+    background-color: #063255;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1320px;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+.footer1__title{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: #ffff;
+    padding: 15px 0px;
+}
+.footer2__menu__tile{
+    font-weight: 600;
+    font-size: 18px;
+    line-height:27px;
+    color: #ffff;
+    padding-bottom: 15px;
+}
+.footer2__menu a{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ffff;
+    padding: 10px 0px;
+}
+.footer4__input{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 15px 100px 15px 20px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #9C9C9C;
+    display: block;
+    margin-bottom: 15px;
+}
